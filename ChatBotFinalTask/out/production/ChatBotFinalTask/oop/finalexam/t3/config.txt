@@ -1,0 +1,2 @@
+url=https://max.ge/final/t3/12847596/index.php
+botName=ChatBot
